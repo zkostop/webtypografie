@@ -17,7 +17,7 @@ body {
 #container {
 	/*	width: 100%;*/
 	/*	height: 100%;*/
-	margin: 50px auto 50px;
+	margin: 15vh auto 50px;
 }
 
 #video-placeholder {
@@ -27,6 +27,8 @@ body {
 
 iframe {
 	z-index: 9999;
+	width: 75vw;
+	height: 60vh;
 }
 
 #closed-captions {
@@ -49,6 +51,25 @@ iframe {
 	transition: .2s;
 	opacity: 0;
 }
+
+.soundCaption0 {
+	color: red !important;
+	z-index: 100;
+	font-size: 40px;
+	position: absolute;
+}
+
+.soundCaption1 {
+	color: white;
+	z-index: 100;
+	font-size: 40px;
+}
+
+/* **********************************************
+SOUNDS
+************************************************/
+
+
 
 /* **********************************************
 VOICES
