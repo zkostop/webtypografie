@@ -79,5 +79,21 @@ De sound captions heb ik op basis van de termen die ik voorbij zag komen tijdens
 
 De video is breder gemaakt zodat het meer een 'bioscoop' gevoel geeft en de GIF's zijn uitgekozen op sfeer van de geluiden. Het geeft een extra effect en maakt het visueel heel spannend. 
 
-![](gifs/sterrenandere.gif)
+### De GIF's
+
+![](gifs/sterrenandere.gif)Sterrenhemel: 
+
+Dit geeft het begin een sereen gevoel van in de ruimte zijn.
+
+![](gifs/trippy.gif)Tunnel van groene leds:
+
+Deze 'trippy' tunnel geeft op een 1 en gek beeld wanneer het beeld inzoomt op Constant K., dit was precies wat ik zocht en voelde bij het geluid. 
+
+![](gifs/bluetunnel.gif) Blauwe tunnel:
+
+Deze GIF past goed bij de sfeer en blauwe kleuren die worden gebruikt in het laaste deel van het fragment.
+
+## Aftermath
+
+Ik vond deze opdracht super leuk om te maken en meer te leren over Closed Captions. Hierdoor sta je stil hoe vanzelfsprekende dingen anders kunnen worden ervaren door mensen en hoe je dit kan toepassen in je designs. Het werken met CSS was opzich een uitdaging maar wel erg leuk om te doen. De wekelijkse feedback gesprekken waren ook erg nuttig en fijn omdat je dan toch iets van een contact moment hebt en soort van 1 op 1 iets kan bespreken. 
 
