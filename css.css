@@ -157,7 +157,7 @@ SOUNDS
 ************************************************/
 
 .sound0 {
-	background-image: url('gifs/sterren.gif');
+	background-image: url('gifs/sterrenandere.gif');
 	background-size: cover;
 	background-position: center;
 }
@@ -168,7 +168,7 @@ SOUNDS
 }
 
 .sound2 {
-	background-image: url('gifs/sterren.gif');
+	background-image: url('gifs/sterrenandere.gif');
 	background-size: cover;
 	background-position: center;
 }
@@ -189,6 +189,16 @@ SOUNDS
 }
 
 .sound13 {
+	background: black;
+}
+
+.sound14 {
+	background-image: url('gifs/bluetunnel.gif');
+	background-size: cover;
+	background-position: center;
+}
+
+.sound15 {
 	background: black;
 }
 
