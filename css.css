@@ -65,7 +65,7 @@ SOUNDS CC
 }
 
 .soundCaption0 {
-	color: red !important;
+	color: white;
 	z-index: 100;
 	font-size: 25px;
 	position: absolute;
@@ -142,6 +142,8 @@ VOICES
 	font-family: "Brenner Sans Light";
 	color: white;
 	font-size: 25px;
+	background-color: black;
+	line-height: 3;
 }
 
 /* Ryan Gosling Reciting */
