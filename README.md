@@ -35,19 +35,19 @@ Het font Brenner heeft veel mogelijkheden en zo heb ik meer grip op de closed ca
 
 De stemmen uit het fragment heb ik in delen opgedeeld: 
 
-- **Machine**
-Font: Brenner Mono Medium
+- **Machine**:Brenner Mono Medium
 
-- **Ryan Gosling**
-Font: Brenner Sans Light
+Dit font is wat dikker en robuster. De stem van de machine is een serieuze stem die eentonige vragen stelt. De stem is ook nogal autoritair, daarvan dit font. 
 
-- **Ryan Gosling Reciting**
-Brenner Sans Condensed Light
+- **Ryan Gosling**: Brenner Sans Light
 
-- **Fuck off - voice**
-Font: Brenner Sans Condensed Regular
+Dit font 
 
-- **We're done - voice**
-Font: Brenner Mono Medium
+- **Ryan Gosling Reciting**: Brenner Sans Condensed Light
+
+- **Fuck off - voice**: Brenner Sans Condensed Regular
+
+- **We're done - voice**: Brenner Mono Medium
+
 
 
