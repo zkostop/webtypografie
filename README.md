@@ -10,7 +10,7 @@ Closed Captions worden altijd weergegeven in vorm van ondertiteling. De opdracht
 
 Voor deze opdracht moesten wij een deel van de film Bladerunner 2049 verbeteren. In deze 2 scene's wordt de hoofdpersoon Constant K. ondervraagt en moet hij bepaalde zinnen en woorden herhalen om de test te voldoen. In de eerste scene doet hij dit uitstekend maar in de tweede scene faalt hij. 
 
-[De scene's uit Bladerunner 2049](https://www.youtube.com/watch?v=vrP-_T-h9YM)
+[De scene's uit Bladerunner 2049.](https://www.youtube.com/watch?v=vrP-_T-h9YM)
 
 ## Typografische keuze
 
@@ -29,3 +29,25 @@ Je *moet* een van deze twee opties kiezen, en je keuze moet je onderbouwen. In j
 >Met Brenner zijn er natuurlijk veel en veel meer mogelijkheden dan met systeemfonts. Dat kan zowel een voordeel als een nadeel zijn. 
 
 >Voor een overzicht, zie [de brenner.pdf](brenner.pdf).
+
+Mijn keuze viel direct voor de tweede optie Brenner. Zelf vind ik het erg fijn om met restricties te werken en te weten hoe het eindresultaat eruit ziet bij iemand anders. Dit was namelijk niet het geval geweest voor de eerste optie; het systeemfont. 
+Het font Brenner heeft veel mogelijkheden en zo heb ik meer grip op de closed captions. 
+
+De stemmen uit het fragment heb ik in delen opgedeeld: 
+
+- **Machine**
+Font: Brenner Mono Medium
+
+- **Ryan Gosling**
+Font: Brenner Sans Light
+
+- **Ryan Gosling Reciting**
+Brenner Sans Condensed Light
+
+- **Fuck off - voice**
+Font: Brenner Sans Condensed Regular
+
+- **We're done - voice**
+Font: Brenner Mono Medium
+
+
