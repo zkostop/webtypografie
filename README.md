@@ -37,17 +37,27 @@ De stemmen uit het fragment heb ik in delen opgedeeld:
 
 - **Machine**:Brenner Mono Medium
 
-Dit font is wat dikker en robuster. De stem van de machine is een serieuze stem die eentonige vragen stelt. De stem is ook nogal autoritair, daarvan dit font. 
+*Dit font is wat dikker en robuster. De stem van de machine is een serieuze stem die eentonige vragen stelt. De stem is ook nogal autoritair, daarvan dit font.*
 
 - **Ryan Gosling**: Brenner Sans Light
 
-Dit font 
+*Dit font is smal en wat simpeler. Constant K. praat namelijk zachter dan de computer. In combinatie met de achtergrond waren de woorden niet helemaal goed te zien en heb ik hier een zwarte balk achter gemaakt, zodat het beter te lezen is en de essentie van de woorden niet verdwijnt. 
 
 - **Ryan Gosling Reciting**: Brenner Sans Condensed Light
 
+*Dit font wordt in het begin gebruikt, hier citeerd Constant K. zijn 'baseline'. Het is hier niet duidelijk of hij al in de ruimte zit of dit vanuit zijn ruimteschip citeert. Daarom heb ik gekozen voor een soort gelijk font als hier boven, maar net iets anders. Dit font staat iets dichterbij elkaar, maar is evengoed nog erg smal. Dit komt omdat Constant K. niet een heel erg harde stem heeft.
+
 - **Fuck off - voice**: Brenner Sans Condensed Regular
 
+*Dit font is dikker dan de andere fonts en moet wat abrubter overkomen. Er wordt namelijk gevloekt met dit font. Om duidelijk te maken dat dit van de voorbijlopende man is, heb ik er 'agent' voorgezet, aangezien dit een agent is die voorbij loopt.*
+
 - **We're done - voice**: Brenner Mono Medium
+
+*Naar mijn mening is de 'we're done' voice het zelfde als de computerstem, dus heb ik de zelfde font aangehouden.*
+
+- **Sound Captions**: Brenner Mono Regular
+
+*De sound captions heb ik zo uitgezocht dat ze lijken op sound captions die in televisie worden gebruikt. De sound captions moeten niet te veel opvallen, maar wel genoeg zodat het gelezen wordt. Dit font is daarom normaal en iets wat statisch.*
 
 
 
