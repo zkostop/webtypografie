@@ -59,7 +59,25 @@ De stemmen uit het fragment heb ik in delen opgedeeld:
 
 *De sound captions heb ik zo uitgezocht dat ze lijken op sound captions die in televisie worden gebruikt. De sound captions moeten niet te veel opvallen, maar wel genoeg zodat het gelezen wordt. Dit font is daarom normaal en iets wat statisch.*
 
+De ondertiteling staat gewoon onder de video in het midden. Dit is de meest natuurlijke plaats om de ondertiteling te zien. De herhaling van de woorden door Constant K. staan iets onder de woorden van de computer. Dit heb ik gedaan om duidelijk te maken dat het om een andere stem gaat. 
+
 ## Gebruik van Closed Captions en feedback
 
+Het was nogal een uitdaging om animaties of sound captions toe te voegen aan het fragment. Na de kennismaking met Marie hoorde ik dat zij erg te spreken was over de closed captions van de serie The Walking Dead. Toevallig kijk ik deze serie ook, dus besloot ik deze verder te kijken met closed captions en zelfs een paar afleveringen zonder ondertiteling. Hierdoor kreeg ik meer inzicht over hoe het is voor iemand als Marie om een serie te kijken. 
 
+Voor het eerste feedbackmoment wilde ik eerst experimenteren met animaties. Ik was benieuwd of dit net zo goed zou werken als sound captions. Hiervoor had ik een paar geluiden vormgegeven in het fragment doormiddel van CSS. Bij het feedbackmoment vertelde Marie mij dat ze dit meer in combinatie met sound captions wilde zien. Zij heeft namelijk helemaal geen besef van de animaties en welke geluiden zij uitbeelden. 
+
+Na deze feedback besloot ik dit toe te voegen en bij het tweede feedback gesprek te laten zien. Marie vondt dit een verbetering en zei dat ik zo door moest gaan. 
+Door de gesprekken met Vasilis kreeg ik inspiratie om soort van over de kop te gaan met het uitbeelden van de geluiden en een sfeer te creeëren. 
+
+Ik heb animaties, GIF's en sound captions gebruikt om dit te doen. De sound captions heb ik boven de video neergezet zodat de captions duidelijk verdeeld zijn over de pagina. 
+De animaties vertalen twee korte geluiden in het begin van het fragment en worden ondersteund door sound captions. De rest van de video worden ondersteund door GIF's die een duidelijk sfeer maken. De GIF's heb ik zo uitgezocht zodat het bij de sfeer van het fragment past maar ook de geluiden die er hadden moeten zijn. Ze vervangen de geluiden. 
+
+De sound captions heb ik op basis van de termen die ik voorbij zag komen tijdens het kijken van The Walking Dead en andere series. Het gebruiken van herkenbare termen maakt het makkelijker om er iets bij voor te stellen. 
+
+## Visuele vormgeving
+
+De video is breder gemaakt zodat het meer een 'bioscoop' gevoel geeft en de GIF's zijn uitgekozen op sfeer van de geluiden. Het geeft een extra effect en maakt het visueel heel spannend. 
+
+![](gifs/sterrenandere.gif)
 
