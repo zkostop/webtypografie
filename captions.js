@@ -109,7 +109,7 @@ captions[78] = ['128.18', '130.14'];
 captions[79] = ['132.58', '135'];
 
 // Sounds
-// -taunting music [0]
+//- taunting music [0]
 captions[80] = ['0', '3.6'];
 //- alarm sound [1]
 captions[81] = ['9.2', '10.2'];
@@ -128,4 +128,12 @@ captions[87] = ['33.2', '35'];
 //- high pitch intensifies [6]
 captions[88] = ['61', '63'];
 //- high pitch intensifies more [7]
-captions[89] = ['66.6', '68.6']
+captions[89] = ['66.6', '68.6'];
+//- taunting music [0]
+captions[90] = ['86.6', '88'];
+//- ♪ [0]
+captions[91] = ['95', '98'];
+//- computer sounds [8]
+captions[92] = ['103', '105'];
+//- ♪ [0]
+captions[93] = ['115', '117'];

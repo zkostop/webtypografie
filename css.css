@@ -55,62 +55,75 @@ SOUNDS CC
 ************************************************/
 
 .soundcaption {
+	font-family: 'Brenner Mono Regular';
+	font-size: 1rem;
 	position: absolute;
 	margin: auto;
 	top: 0;
-	margin-top: 2%;
-	font-size: 2rem;
+	margin-top: 4%;
+
 }
 
 .soundCaption0 {
 	color: red !important;
 	z-index: 100;
-	font-size: 40px;
+	font-size: 25px;
 	position: absolute;
 }
 
 .soundCaption1 {
 	color: white;
 	z-index: 100;
-	font-size: 40px;
+	font-size: 25px;
 }
 
 .soundCaption2 {
 	color: white;
 	z-index: 100;
-	font-size: 40px;
+	font-size: 25px;
 }
 
 .soundCaption3 {
 	color: white;
 	z-index: 100;
-	font-size: 40px;
+	font-size: 25px;
 }
 
 .soundCaption4 {
 	color: white;
 	z-index: 100;
-	font-size: 40px;
+	font-size: 25px;
 }
 
 .soundCaption5 {
 	color: white;
 	z-index: 100;
-	font-size: 40px;
+	font-size: 25px;
 }
 
 .soundCaption6 {
 	color: white;
 	z-index: 100;
-	font-size: 40px;
+	font-size: 25px;
 }
 
 .soundCaption7 {
 	color: white;
 	z-index: 100;
-	font-size: 40px;
+	font-size: 25px;
 }
 
+.soundCaption8 {
+	color: white;
+	z-index: 100;
+	font-size: 25px;
+}
+
+.soundCaption9 {
+	color: white;
+	z-index: 100;
+	font-size: 25px;
+}
 
 /* **********************************************
 VOICES
@@ -120,7 +133,7 @@ VOICES
 .voice1 {
 	font-family: "Brenner Mono Medium";
 	color: white;
-	font-size: 20px;
+	font-size: 25px;
 
 }
 
@@ -128,20 +141,20 @@ VOICES
 .voice2 {
 	font-family: "Brenner Sans Light";
 	color: white;
-	font-size: 20px;
+	font-size: 25px;
 }
 
 /* Ryan Gosling Reciting */
 .voice2Alone {
 	font-family: "Brenner Sans Condensed Light";
 	color: white;
-	font-size: 25px;
+	font-size: 27px;
 }
 
 /* Fuck off */
 .voice3 {
-	font-family: "Brenner Mono Bold";
-	color: darkred;
+	font-family: "Brenner Sans Condensed Regular";
+	color: white;
 	font-size: 25px;
 }
 
@@ -149,7 +162,7 @@ VOICES
 .voice4 {
 	font-family: "Brenner Mono Medium";
 	color: white;
-	font-size: 20px;
+	font-size: 25px;
 }
 
 /* **********************************************
