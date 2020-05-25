@@ -89,7 +89,8 @@ Dit geeft het begin een sereen gevoel van in de ruimte zijn.
 
 Deze 'trippy' tunnel geeft op een 1 en gek beeld wanneer het beeld inzoomt op Constant K., dit was precies wat ik zocht en voelde bij het geluid. 
 
-![](gifs/bluetunnel.gif) Blauwe tunnel:
+![](gifs/bluetunnel.gif) 
+Blauwe tunnel:
 
 Deze GIF past goed bij de sfeer en blauwe kleuren die worden gebruikt in het laaste deel van het fragment.
 
