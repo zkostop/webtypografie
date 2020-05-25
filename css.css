@@ -15,8 +15,6 @@ body {
 }
 
 #container {
-	/*	width: 100%;*/
-	/*	height: 100%;*/
 	margin: 15vh auto 50px;
 }
 
@@ -52,6 +50,18 @@ iframe {
 	opacity: 0;
 }
 
+/* **********************************************
+SOUNDS CC
+************************************************/
+
+.soundcaption {
+	position: absolute;
+	margin: auto;
+	top: 0;
+	margin-top: 2%;
+	font-size: 2rem;
+}
+
 .soundCaption0 {
 	color: red !important;
 	z-index: 100;
@@ -65,10 +75,41 @@ iframe {
 	font-size: 40px;
 }
 
-/* **********************************************
-SOUNDS
-************************************************/
+.soundCaption2 {
+	color: white;
+	z-index: 100;
+	font-size: 40px;
+}
 
+.soundCaption3 {
+	color: white;
+	z-index: 100;
+	font-size: 40px;
+}
+
+.soundCaption4 {
+	color: white;
+	z-index: 100;
+	font-size: 40px;
+}
+
+.soundCaption5 {
+	color: white;
+	z-index: 100;
+	font-size: 40px;
+}
+
+.soundCaption6 {
+	color: white;
+	z-index: 100;
+	font-size: 40px;
+}
+
+.soundCaption7 {
+	color: white;
+	z-index: 100;
+	font-size: 40px;
+}
 
 
 /* **********************************************
@@ -99,28 +140,40 @@ VOICES
 
 /* Fuck off */
 .voice3 {
-	font-family: "Brenner Slab Bold";
+	font-family: "Brenner Mono Bold";
 	color: darkred;
-	font-size: 30px;
+	font-size: 25px;
 }
 
 /* We're done  */
 .voice4 {
-	font-family: "Brenner Mono Bold";
-	color: dimgrey;
+	font-family: "Brenner Mono Medium";
+	color: white;
+	font-size: 20px;
 }
 
 /* **********************************************
 SOUNDS
 ************************************************/
-.sound1 #video-placeholder {
-	-moz-animation: blinkRed 2s 1;
-	-ms-animation: blinkRed 2s 1;
-	-o-animation: blinkRed 2s 1;
-	animation: blinkRed 2s 1;
+
+.sound0 {
+	background-image: url('gifs/sterren.gif');
+	background-size: cover;
+	background-position: center;
 }
 
-.sound2 #scanner {
+.sound1 {
+	background: black;
+	animation: pulseRed 2s 1;
+}
+
+.sound2 {
+	background-image: url('gifs/sterren.gif');
+	background-size: cover;
+	background-position: center;
+}
+
+.sound3 #scanner {
 	opacity: 0;
 	width: 100%;
 	height: 1px;
@@ -129,6 +182,24 @@ SOUNDS
 	box-shadow: 0px 0px 8px 10px lightblue;
 	top: 95%;
 	animation: scan 2s 1;
+}
+
+.sound10 {
+	background-image: url('gifs/trippy.gif');
+}
+
+@keyframes pulseRed {
+	from {
+		background-color: black;
+	}
+
+	50% {
+		background-color: rgb(100, 0, 0);
+	}
+
+	to {
+		background-color: black;
+	}
 }
 
 /* Key frames */

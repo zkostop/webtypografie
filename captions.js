@@ -109,5 +109,23 @@ captions[78] = ['128.18', '130.14'];
 captions[79] = ['132.58', '135'];
 
 // Sounds
-captions[80] = [0, 9];
-captions[81] = [9.2, 10.2];
+// -taunting music [0]
+captions[80] = ['0', '3.6'];
+//- alarm sound [1]
+captions[81] = ['9.2', '10.2'];
+//- ♪ [0]
+captions[82] = ['10.4', '12'];
+//- high pitch going up [2]
+captions[83] = ['12.2', '13.4'];
+//- ♪ [0]
+captions[84] = ['13.6', '15.5'];
+//- indistinct conversations [3]
+captions[85] = ['15.7', '17'];
+//- conversations continue [4]
+captions[86] = ['25.4', '27'];
+//- increasing high pitch [5]
+captions[87] = ['33.2', '35'];
+//- high pitch intensifies [6]
+captions[88] = ['61', '63'];
+//- high pitch intensifies more [7]
+captions[89] = ['66.6', '68.6']
