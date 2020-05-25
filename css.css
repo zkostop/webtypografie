@@ -188,6 +188,15 @@ SOUNDS
 	background-image: url('gifs/trippy.gif');
 }
 
+.sound13 {
+	background: black;
+}
+
+/* **********************************************
+Keyframes
+************************************************/
+
+
 @keyframes pulseRed {
 	from {
 		background-color: black;
